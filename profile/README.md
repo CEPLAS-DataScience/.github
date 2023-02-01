@@ -1,4 +1,11 @@
-# Welcome
+<img src="CEPLAS-DataScience-Banner.png" width="1280">
+
+<img align="left" src="CeplasDataScience_Logo_v2_round.png" width="100">
+
+<bg>
+<bg>
+
+# Welcome 
 
 :construction: This site is currently under re-construction :construction:
 
